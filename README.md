@@ -1,5 +1,5 @@
 # regression-model-on-car-dekho-dataset
-This project demonstrates the use of various regression models, including Linear Regression, Ridge Regression, Lasso Regression, K-Nearest Neighbors (KNN) Regression, Random Forest Regressor, and Decision Tree Regressor, on the Car Dekho dataset.
+This project demonstrates the use of various regression models, including Linear Regression, Ridge Regression, Lasso Regression, K-Nearest Neighbors (KNN) Regression, Random Forest Regressor, and Decision Tree Regressor And Boosting Techniques on the Car Dekho dataset.
 Here’s a brief overview of each model :
 
 Linear Regression: A basic model that tries to find the best linear relationship between the features and the target variable.
